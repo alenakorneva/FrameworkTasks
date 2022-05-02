@@ -1,0 +1,15 @@
+tests\CommonConditions.class
+utils\TestListener.class
+pages\CloudGoogleHomePage.class
+pages\SearchResultsForGoogleCloudPlatformPricingCalculator.class
+tests\HardcoreTest.class
+utils\StringUtils.class
+HardcoreRunner.class
+pages\GoogleCloudCalculator.class
+pages\EstimationResultsPage.class
+service\TestDataReader.class
+pages\AbstractPage.class
+driver\DriverSingleton.class
+service\InstanceCreator.class
+model\WrittenValues.class
+pages\YopMailPage.class
