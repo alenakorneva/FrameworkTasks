@@ -1,5 +1,6 @@
 # FrameworkTasks
 Run from command line: mvn -Dbrowser=chrome -Denvironment=qa -Dsurefire.suiteXmlFiles=src\main\resources\testing-smoke.xml clean test
+
 Задача - построить фреймворк для автоматизации Hardcore задания из курса WebDriver.
 
 Что должно быть в итоговом фреймворке:
