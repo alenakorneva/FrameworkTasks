@@ -13,7 +13,7 @@ import service.InstanceCreator;
 import java.util.ArrayList;
 
 public class HardcoreRunner {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--disable-notifications");
         WebDriver driver = new ChromeDriver(options);
@@ -83,5 +83,5 @@ public class HardcoreRunner {
     public static void openNewTab(WebDriver driver) {
         JavascriptExecutor javascriptExecutor = (JavascriptExecutor) driver;
         javascriptExecutor.executeScript("window.open()");
-    }
+    }*/
 }
